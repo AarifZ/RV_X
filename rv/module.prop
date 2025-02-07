@@ -5,3 +5,4 @@ version=19.47.53
 versionCode=5
 author=AarifZ
 description=YouTube inject module Made by AarifZ. [Requires Susfs or Magic Proc Monitor 2.1+ for Dynamic Mount]
+updateJson=https://raw.githubusercontent.com/AarifZ/RV_X/main/rv/update.json
