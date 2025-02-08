@@ -1,0 +1,8 @@
+id=ytmusic_susinject
+name=YouTube Music ""
+package=com.google.android.apps.youtube.music
+version=""
+versionCode=3
+author=AarifZ
+description=YouTube Music inject module Made by AarifZ. [Requires Susfs or Magic Proc Monitor 2.1+ for Dynamic Mount]
+updateJson=https://raw.githubusercontent.com/AarifZ/RV_X/main/ytmusic/""/update.json
