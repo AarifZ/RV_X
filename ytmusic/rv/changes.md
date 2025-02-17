@@ -1,6 +1,6 @@
 Telegram channel:
 https://t.me/aarifzone
 
-## v7.29.52 YouTube Music ReVanced
-- Release 1
-- revanced-patches/v5.11.0
+## v8.03.53 YouTube Music ReVanced
+- Release 2
+- revanced-patches/v5.12.0
